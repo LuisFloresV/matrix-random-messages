@@ -1,0 +1,28 @@
+{
+  "name": "naoko-random-messages",
+  "version": "1.0.1",
+  "description": "Random messages",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Luis Flores <naokodeveloper@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisFloresV/naoko-random-messages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LuisFloresV/naoko-random-messages/issues"
+  },
+  "homepage": "https://github.com/LuisFloresV/naoko-random-messages#readme"
+}
