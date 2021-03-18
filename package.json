@@ -1,5 +1,5 @@
 {
-  "name": "naoko-random-messages",
+  "name": "matrix-random-messages",
   "version": "1.0.1",
   "description": "Random messages",
   "main": "src/index.js",
