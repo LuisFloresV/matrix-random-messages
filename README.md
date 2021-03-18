@@ -1,12 +1,12 @@
 
-# naoko-random-messages
+# matrix-random-messages
 
 Use this package to obtain a random message from The Matrix Series
 
 ## Install
 
 ```npm
-npm install -g naoko-random-messages
+npm install -g matrix-random-messages
 ```
 
 # Usage
